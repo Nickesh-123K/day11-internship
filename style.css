@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-image{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.bg-image header{
+    position: relative;
+}
+
+
+header img{
+    margin-top: 1%;
+    padding-left: 4.5%;
+}
+
+header h4{
+    padding-left: 1%;
+}
+
+.bg-image header a {
+    text-decoration: none;
+    position: absolute;
+    color: black;
+    cursor: pointer;
+}
+
+.bg-image header a:hover{
+    background-color: gray;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    border-width:4px;
+}
+
+.bg-image header p{
+    position: absolute;
+    color: blue ;
+}
+
+.a1{
+    left: 25%;
+    margin-top: -4%;
+}
+
+.a2{
+    left: 29.5%;
+    margin-top: -4%;
+}
+
+.a3{
+    left: 34.5%;
+    margin-top: -4%;
+}
+
+.a4{
+    left: 40.5%;
+    margin-top: -4%;
+}
+
+.a5{
+    left: 45.5%;
+    margin-top: -4%;
+}
+
+.a6{
+    left: 51.5%;
+    margin-top: -4%;
+}
+
+.a7{
+    left: 63.5%;
+    margin-top: -4.3%;
+}
+
+.heading{
+    font-size: 40px;
+    margin-top: 150px;
+    text-align: center;
+}
